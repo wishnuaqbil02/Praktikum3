@@ -1,5 +1,25 @@
 # Praktikum3
+Tentukan Nilai Jari-jari Lingkaran:
+Langkah pertama adalah menentukan nilai jari-jari (r) dari lingkaran. Jari-jari adalah jarak dari pusat lingkaran ke tepi lingkaran.
 
-![gambar](ss1)
+Hitung Luas Lingkaran:
+Untuk menghitung luas lingkaran, Anda dapat menggunakan rumus berikut:
 
-![gambar](ss2)
+Luas = π * r^2
+
+di mana π (pi) adalah konstanta matematika dengan nilai sekitar 3.14159, dan r adalah jari-jari lingkaran.
+
+Hitung Keliling Lingkaran:
+Untuk menghitung keliling lingkaran, Anda dapat menggunakan rumus berikut:
+
+Keliling = 2 * π * r
+
+di mana π (pi) adalah konstanta matematika, dan r adalah jari-jari lingkaran.
+
+kemudian screenshot project yang telah di kerjakan
+
+buka github
+
+setelah itu masukan folder file ke dalam github
+
+setelah file sudah masuk ke dalam github, salin tautan link yang ingin di kirim.
